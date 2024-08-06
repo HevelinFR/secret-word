@@ -1,0 +1,29 @@
+html, body{
+  height: 100%
+}
+
+body{
+  font-family: Helvetica;
+  margin: 0;
+  padding: 0;
+  background: #ee82ee;
+  color: #fff;
+}
+
+button{
+  background: transparent;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 8px;
+  padding: 16px;
+  text-transform: uppercase;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: .4s;
+}
+button:hover{
+  background: #fff;
+  color: #f7acf7;
+}
+
+
