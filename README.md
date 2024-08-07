@@ -1,4 +1,5 @@
 # Secret Word
+![alt text](image.png)
 
 **Secret Word** é um jogo de adivinhação de palavras onde o jogador deve adivinhar a palavra secreta antes que suas tentativas acabem. Este projeto foi desenvolvido usando React e Vite, proporcionando uma experiência de desenvolvimento rápida e eficiente.
 

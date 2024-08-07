@@ -6,7 +6,7 @@ body{
   font-family: Helvetica;
   margin: 0;
   padding: 0;
-  background: #ee82ee;
+  background: #986dff;
   color: #fff;
 }
 
@@ -23,7 +23,7 @@ button{
 }
 button:hover{
   background: #fff;
-  color: #f7acf7;
+  color: #986dff;
 }
 
 
