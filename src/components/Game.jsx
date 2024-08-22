@@ -59,8 +59,8 @@ export const Game = ({
             </div>
             <div className="wrongLettersContainer">
                 <p>Letras já utilizadas:</p>
-                {wrongLetters.map((letter, i) => (
-                    <span key={i}>{letter}, </span>
+                {wrongLetters.map((letter, x) => ( 
+                    <span key={x}>{letter}, </span>
                 ))}
             </div>
         </div>
